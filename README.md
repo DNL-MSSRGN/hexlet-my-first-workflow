@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-[![Actions Status](https://github.com/DNL-MSSRGN/java-project-61/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/DNL-MSSRGN/hexlet-my-first-workflow/actions)
+[![Actions Status](https://github.com/DNL-MSSRGN/hexlet-my-first-workflow/blob/main/.github/workflows/github-actions-demo.yml/badge.svg)](https://github.com/DNL-MSSRGN/hexlet-my-first-workflow/actions)
